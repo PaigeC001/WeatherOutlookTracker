@@ -1,0 +1,24 @@
+2024-06-02 02:11:49.459 [info] Started local extension host with pid 437.
+2024-06-02 02:12:04.095 [info] [perf] Render performance baseline is 217ms
+2024-06-02 02:12:05.224 [error] Cannot read properties of undefined (reading 'accessToken'): TypeError: Cannot read properties of undefined (reading 'accessToken')
+    at p.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21851)
+    at p.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:22484)
+    at d.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21653)
+2024-06-02 02:18:00.951 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async ee.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:21759)
+    at async _ (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async Me.Kc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async Me.uc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:13032
+2024-06-02 03:07:26.083 [info] Extension host (LocalProcess pid: 437) is unresponsive.
+2024-06-02 03:07:26.189 [info] Extension host (LocalProcess pid: 437) is responsive.
+2024-06-02 03:07:26.227 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-06-02 03:07:27.939 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-03 14:52:06.956 [info] Extension host (LocalProcess pid: 437) is unresponsive.
+2024-06-03 14:52:08.449 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-03 14:52:08.499 [info] Extension host (LocalProcess pid: 437) is responsive.
+2024-06-03 14:52:08.499 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
