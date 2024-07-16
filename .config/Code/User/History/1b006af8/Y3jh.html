@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blog Form</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1>Welcome To My Blog</h1>
+  <div class="toggle-container">
+    <input type="checkbox" id="toggle">
+    <label for="toggle"></label>
+  </div>
+  <form>
+
+    <script>
+        // Add a new blog post and redirect to the second HTML page
+        function addBlogPostAndRedirect(username, title, content) {
+          // Add the blog post using the existing addBlogPost function
+          addBlogPost(username, title, content);
+      
+          // Redirect to the second HTML page
+          window.location.href = "blog.html";
+        }
+      
+        // Update the form's submit event listener
+        var form = document.getElementById('blogPostForm');
+      
+        form.addEventListener('submit', function(event) {
+          event.preventDefault(); // prevent the form from submitting normally
+      
+          var username = document.getElementById('username').value;
+          var title = document.getElementById('blogTitle').value;
+          var content = document.getElementById('blogContent').value;
+      
+          addBlogPostAndRedirect(username, title, content);
+        });
+      </script>
+
+    <label for="username">Username:</label>
+    <input type="text" id="username" placeholder="Enter your username" required>
+
+    <label for="title">Blog Title:</label>
+    <input type="text" id="title" placeholder="Enter the title of your blog" required>
+
+    <label for="content">Blog Content:</label>
+    <textarea id="content" placeholder="Write your blog post here" required></textarea>
+
+    <button type="submit">Submit!</button>
+  </form>
+
+<a href="blog.html">View Previous Blog Posts</a>
+
+  <script src="script.js"></script>
+</body>
+</html>

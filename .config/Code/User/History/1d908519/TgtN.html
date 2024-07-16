@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+
+    #nav {
+      background-color: #333;
+      padding: 10px;
+    }
+
+    #nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #nav li {
+      margin-right: 15px;
+    }
+
+    #nav li a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    #nav li a:hover {
+      text-decoration: underline;
+    }
+
+    #about-me {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      padding: 50px;
+      background-color: #fff;
+      margin-bottom: 30px;
+    }
+
+    #portfolio-title {
+      text-align: center;
+      font-weight: bold;
+      font-size: 30px;
+      margin-bottom: 20px;
+    }
+
+    .project {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      padding: 20px;
+      background-color: #fff;
+      margin-bottom: 20px;
+    }
+
+    .project:hover {
+      border: 2px solid #888;
+    }
+
+    .project img {
+      width: 200px;
+      height: 200px;
+      margin-bottom: 10px;
+    }
+
+    .contact {
+      text-align: center;
+      padding: 50px;
+      background-color: #fff;
+    }
+
+    .contact a {
+      color: #333;
+      text-decoration: none;
+      margin-right: 10px;
+    }
+
+    .contact a:hover {
+      text-decoration: underline;
+    }
+
+    h2 {
+      font-weight: bold;
+      font-size: 20px;
+    }
+  </style>
+</head>
+<body>
+  <nav id="nav">
+    <ul>
+      <li><a href="#about-me">About Me</a></li>
+      <li><a href="#portfolio">Portfolio</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section id="about-me">
+    <img src="my-photo.jpg" alt="My Photo" width="200">
+    <h2>About Me</h2>
+    <p>Write some information about yourself here.</p>
+  </section>
+
+  <section id="portfolio">
+    <h2 id="portfolio-title">Portfolio</h2>
+    <div class="project">
+      <img src="Linux files/Challenge-2/Mod2Challenge/.git/Img/Lauchingsoonlandingpageexample.jpg" alt="Project 1">
+      <h3>Project 1</h3>
+      <p>Description for Project 1.</p>
+    </div>
+    <div class="project">
+      <img src="project2.jpg" alt="Project 2">
+      <h3>Project 2</h3>
+      <p>Description for Project 2.</p>
+    </div>
+    <div class="project">
+      <img src="project3.jpg" alt="Project 3">
+      <h3>Project 3</h3>
+      <p>Description for Project 3.</p>
+    </div>
+    <div class="project">
+      <img src="project4.jpg" alt="Project 4">
+      <h3>Project 4</h3>
+      <p>Description for Project 4.</p>
+    </div>
+    <div class="project">
+      <img src="project5.jpg" alt="Project 5">
+      <h3>Project 5</h3>
+      <p>Description for Project 5.</p>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact</h2>
+    <p>Phone: 919-123-7890</p>
+    <p>Email: paigetaylor1233@gmail.com</p>
+    <p><a href="https://github.com/your-github-account">GitHub</a></p>
+  </section>
+</body>
+</html>

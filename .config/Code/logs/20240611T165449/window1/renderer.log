@@ -1,0 +1,19 @@
+2024-06-11 16:54:53.735 [info] Started local extension host with pid 6177.
+2024-06-11 16:55:00.420 [info] [perf] Render performance baseline is 193ms
+2024-06-11 16:55:39.590 [error] Error: ENOENT: no such file or directory, stat '/home/paigec00/Challenge-2/Mod2Challenge/.git/Challenge-2/Challenge-2/Mod2Challenge/Lauchingsoonlandingpageexample.jpg': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/paigec00/Challenge-2/Mod2Challenge/.git/Challenge-2/Challenge-2/Mod2Challenge/Lauchingsoonlandingpageexample.jpg'
+	at P.e (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:6123)
+	at Object.stat (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:3894)
+2024-06-11 16:58:33.880 [error] Error: ENOENT: no such file or directory, stat '/home/paigec00/Challenge-2/Mod2Challenge/.git/Challenge-2/My files/Linux files/Challenge-2/Mod2Challenge/Lauchingsoonlandingpageexample.jpg': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/paigec00/Challenge-2/Mod2Challenge/.git/Challenge-2/My files/Linux files/Challenge-2/Mod2Challenge/Lauchingsoonlandingpageexample.jpg'
+	at P.e (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:6123)
+	at Object.stat (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:3894)
+2024-06-11 16:58:35.477 [error] Error: The editor could not be opened because the file was not found.
+    at N.gc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2187:30582)
+    at async N.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2187:29461)
+    at async s.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:24630)
+    at async s.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:23157)
+    at async s.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:22146)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:26784
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:36780
+2024-06-11 19:02:34.445 [error] Error: ENOENT: no such file or directory, stat '/home/paigec00/Challenge-2/Mod2Challenge/Challenge-2/Mod2Challenge/Lauchingsoonlandingpageexample.jpg': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/paigec00/Challenge-2/Mod2Challenge/Challenge-2/Mod2Challenge/Lauchingsoonlandingpageexample.jpg'
+	at P.e (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:6123)
+	at Object.stat (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:3894)

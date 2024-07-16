@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Blog</title>
+    <script type="text/javascript">
+        function submitBlog() {
+            var username = document.getElementById('username').value;
+            var title = document.getElementById('title').value;
+            var content = document.getElementById('content').value;
+
+            // You can perform further actions with the submitted data, like storing it in a database
+
+            // Example: displaying a confirmation message
+            alert("Blog submitted successfully!");
+        }
+    </script>
+</head>
+<body>
+    <h1>Welcome to My Blog</h1>
+    <form id="blogForm" onsubmit="event.preventDefault(); submitBlog();">
+        <label for="username">Username:</label><br>
+        <input type="text" id="username" name="username"><br><br>
+
+        <label for="title">Blog Title:</label><br>
+        <input type="text" id="title" name="title"><br><br>
+
+        <label for="content">Blog Content:</label><br>
+        <textarea id="content" name="content" rows="10" cols="50"></textarea><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

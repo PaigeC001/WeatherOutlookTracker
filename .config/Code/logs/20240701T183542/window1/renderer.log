@@ -1,0 +1,6 @@
+2024-07-01 18:35:46.992 [info] Started local extension host with pid 5026.
+2024-07-01 18:35:54.840 [info] [perf] Render performance baseline is 107ms
+2024-07-01 18:51:27.020 [error] [Extension Host] (node:5026) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-07-01 21:12:22.609 [info] Started local extension host with pid 12202.
+2024-07-01 21:12:26.791 [error] No registered selector for ID: ms-vscode.npm-command

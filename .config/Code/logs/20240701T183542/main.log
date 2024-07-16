@@ -1,0 +1,23 @@
+2024-07-01 18:35:43.274 [info] update#setState idle
+2024-07-01 18:36:13.288 [info] update#setState checking for updates
+2024-07-01 18:36:13.439 [info] update#setState idle
+2024-07-01 18:51:41.693 [info] Extension host with pid 6977 exited with code: 0, signal: unknown.
+2024-07-01 19:33:43.660 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-01 19:36:25.667 [info] update#setState checking for updates
+2024-07-01 19:36:26.167 [info] update#setState idle
+2024-07-01 20:16:09.512 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-01 21:03:43.676 [info] update#setState checking for updates
+2024-07-01 21:03:43.995 [info] update#setState idle
+2024-07-01 21:12:22.149 [info] Extension host with pid 5026 exited with code: 0, signal: unknown.
+2024-07-02 12:35:33.822 [info] update#setState checking for updates
+2024-07-02 12:35:34.233 [info] update#setState idle
+2024-07-02 12:49:37.124 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-02 17:31:45.276 [info] update#setState checking for updates
+2024-07-02 17:31:45.696 [info] update#setState idle
+2024-07-02 18:11:23.609 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-02 18:31:12.551 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-03 19:49:37.057 [info] update#setState checking for updates
+2024-07-03 19:49:38.119 [info] update#setState available for download
+2024-07-03 20:07:03.510 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-04 21:30:58.189 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-05 10:59:00.785 [warning] No ptyHost heartbeat after 6 seconds

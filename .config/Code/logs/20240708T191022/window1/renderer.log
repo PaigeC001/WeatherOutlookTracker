@@ -1,0 +1,168 @@
+2024-07-08 19:10:32.476 [warning] Ignoring the error while validating workspace folder file:///home/paigec00/SuperTeamProject/super-team-project - Error: ENOENT: no such file or directory, stat '/home/paigec00/SuperTeamProject/super-team-project'
+2024-07-08 19:10:34.969 [info] Started local extension host with pid 460.
+2024-07-08 19:10:41.686 [error] ENOENT: no such file or directory, scandir '/home/paigec00/SuperTeamProject/super-team-project': Error: ENOENT: no such file or directory, scandir '/home/paigec00/SuperTeamProject/super-team-project'
+2024-07-08 19:10:49.785 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/paigec00/.config/Code/logs/20240602T021145/window1/exthost/vscode.github-authentication' failed: No such file or directory (EUNKNOWN) (path: /home/paigec00)
+2024-07-08 19:10:49.941 [error] [File Watcher (universal)] restarting watcher from error in watch request (retrying request): inotify_add_watch on '/home/paigec00/.config/Code/logs/20240602T021145/window1/exthost/vscode.github-authentication' failed: No such file or directory ({"path":"/home/paigec00","excludes":["**/.git/objects/**","**/.git/subtree-cache/**","**/node_modules/*/**","**/.hg/store/**"],"recursive":true})
+2024-07-08 19:10:51.646 [info] [perf] Render performance baseline is 373ms
+2024-07-09 16:17:10.081 [info] Extension host (LocalProcess pid: 460) is unresponsive.
+2024-07-09 16:17:10.267 [info] Extension host (LocalProcess pid: 460) is responsive.
+2024-07-09 16:17:10.965 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-07-09 16:17:13.728 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-07-09 18:33:38.143 [info] Extension host (LocalProcess pid: 460) is unresponsive.
+2024-07-09 18:33:38.207 [info] Extension host (LocalProcess pid: 460) is responsive.
+2024-07-09 18:33:38.208 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-07-09 18:33:39.835 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-07-09 18:52:14.215 [info] Extension host (LocalProcess pid: 460) is unresponsive.
+2024-07-09 18:52:14.445 [info] Extension host (LocalProcess pid: 460) is responsive.
+2024-07-09 18:52:14.445 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-07-09 18:52:15.763 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-07-09 19:35:20.873 [info] Extension host (LocalProcess pid: 460) is unresponsive.
+2024-07-09 19:35:25.452 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-07-09 19:35:28.935 [info] Extension host (LocalProcess pid: 460) is responsive.
+2024-07-09 19:35:29.041 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-07-09 19:38:10.637 [info] Extension host (LocalProcess pid: 460) is unresponsive.
+2024-07-09 19:38:13.997 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-07-09 19:38:16.357 [info] Extension host (LocalProcess pid: 460) is responsive.
+2024-07-09 19:38:16.381 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-07-09 20:31:25.921 [error] [Extension Host] (node:460) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-07-09 20:31:31.237 [warning] Ignoring the error while validating workspace folder file:///home/paigec00/SuperTeamProject/super-team-project - Error: ENOENT: no such file or directory, stat '/home/paigec00/SuperTeamProject/super-team-project'
+2024-07-09 20:31:31.375 [warning] Ignoring the error while validating workspace folder file:///home/paigec00/SuperTeamProject/super-team-project - Error: ENOENT: no such file or directory, stat '/home/paigec00/SuperTeamProject/super-team-project'
+2024-07-11 13:14:55.665 [error] TreeError [FileExplorer] Data tree node not found: ExplorerItem: search.html: Error: TreeError [FileExplorer] Data tree node not found: ExplorerItem: search.html
+    at ae.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:20706)
+    at ae.getNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:18233)
+    at u.Pe [as value] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:737:71686)
+    at h.y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at h.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at u.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:49773)
+    at h.y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at h.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:729)
+    at h.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:945)
+    at b.t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:27453)
+    at b.splice (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:25568)
+    at D.l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:34109)
+    at D.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:33653)
+    at $.i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:39852)
+    at $.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:39257)
+    at f.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:43041)
+    at m.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:9309)
+    at ae.J (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:23763)
+    at ae.J (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:27572)
+    at ae.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:20828)
+    at async ae.A (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:17741)
+    at async ae.updateChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:17486)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1774:53282
+    at async Promise.all (index 0)
+    at async h.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1774:53108)
+2024-07-11 15:06:55.576 [error] TreeError [FileExplorer] Data tree node not found: ExplorerItem: search.js: Error: TreeError [FileExplorer] Data tree node not found: ExplorerItem: search.js
+    at ae.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:20706)
+    at ae.getNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:18233)
+    at u.Pe [as value] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:737:71686)
+    at h.y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at h.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at u.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:49773)
+    at h.y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at h.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:729)
+    at h.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:945)
+    at b.t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:27453)
+    at b.splice (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:25568)
+    at D.l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:34109)
+    at D.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:33653)
+    at $.i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:39852)
+    at $.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:39257)
+    at f.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:43041)
+    at m.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:9309)
+    at ae.J (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:23763)
+    at ae.J (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:27572)
+    at ae.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:20828)
+    at async ae.A (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:17741)
+    at async ae.updateChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:17486)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1774:53282
+    at async Promise.all (index 0)
+    at async h.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1774:53108)
+2024-07-11 17:50:04.168 [error] TreeError [FileExplorer] Tree element not found: [object Object]: Error: TreeError [FileExplorer] Tree element not found: [object Object]
+    at $.getCompressedNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:41431)
+    at $.getNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:40176)
+    at f.getNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:43345)
+    at m.getNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:208)
+    at ae.getNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:18247)
+    at u.Pe [as value] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:737:71686)
+    at h.y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at h.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at u.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:49773)
+    at h.y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at h.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:729)
+    at h.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:945)
+    at b.t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:27453)
+    at b.splice (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:25568)
+    at D.l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:34109)
+    at D.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:33653)
+    at $.i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:39852)
+    at $.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:39257)
+    at f.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:43041)
+    at m.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:9309)
+    at ae.J (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:23763)
+    at ae.J (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:27572)
+    at ae.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:20828)
+    at async ae.A (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:17741)
+    at async ae.updateChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:17486)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1774:52761
+    at async Promise.all (index 0)
+    at async h.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1774:52715)
+2024-07-12 14:14:04.871 [info] Extension host (LocalProcess pid: 460) is unresponsive.
+2024-07-12 14:14:07.814 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-07-12 14:14:08.971 [info] Extension host (LocalProcess pid: 460) is responsive.
+2024-07-12 14:14:08.971 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-07-12 14:14:09.808 [warning] UNRESPONSIVE extension host: 'vscode.git' took 23.56455338601146% of 290.944ms, saved PROFILE here: 'file:///tmp/exthost-f85608.cpuprofile'
+2024-07-12 15:33:12.109 [info] Extension host (LocalProcess pid: 460) is unresponsive.
+2024-07-12 15:33:15.960 [info] Extension host (LocalProcess pid: 460) is responsive.
+2024-07-12 15:33:15.961 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-07-12 15:33:20.123 [info] Extension host (LocalProcess pid: 460) is unresponsive.
+2024-07-12 15:33:27.244 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-07-12 15:33:28.083 [info] Extension host (LocalProcess pid: 460) is responsive.
+2024-07-12 15:33:28.096 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-07-13 10:30:02.996 [info] Extension host (LocalProcess pid: 460) is unresponsive.
+2024-07-13 10:30:06.652 [info] Extension host (LocalProcess pid: 460) is responsive.
+2024-07-13 10:30:06.653 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-07-13 10:30:20.082 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-07-13 12:58:25.898 [info] Extension host (LocalProcess pid: 460) is unresponsive.
+2024-07-13 12:58:27.061 [info] Extension host (LocalProcess pid: 460) is responsive.
+2024-07-13 12:58:27.087 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-07-13 12:58:34.142 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-07-13 12:58:39.103 [info] Extension host (LocalProcess pid: 460) is unresponsive.
+2024-07-13 12:58:40.659 [warning] UNRESPONSIVE extension host: 'vscode.git' took 23.390688056469997% of 327.13ms, saved PROFILE here: 'file:///tmp/exthost-d482dd.cpuprofile'
+2024-07-13 12:58:41.670 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-07-13 12:58:42.528 [info] Extension host (LocalProcess pid: 460) is responsive.
+2024-07-13 12:58:42.529 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-07-13 12:58:47.275 [warning] UNRESPONSIVE extension host: 'vscode.git' took 53.426762406155575% of 686.021ms, saved PROFILE here: 'file:///tmp/exthost-dd4e3e.cpuprofile'
+2024-07-13 18:01:05.272 [warning] Failed to fetch chat participant registry XHR failed
+2024-07-14 17:36:37.283 [warning] Failed to fetch chat participant registry XHR failed
+2024-07-14 18:02:56.391 [error] TreeError [FileExplorer] Tree element not found: [object Object]: Error: TreeError [FileExplorer] Tree element not found: [object Object]
+    at $.getCompressedNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:41431)
+    at $.getNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:40176)
+    at f.getNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:43345)
+    at m.getNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:208)
+    at ae.getNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:18247)
+    at u.Pe [as value] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:737:71686)
+    at h.y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at h.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at u.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:49773)
+    at h.y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at h.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:729)
+    at h.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:945)
+    at b.t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:27453)
+    at b.splice (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:25568)
+    at D.l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:34109)
+    at D.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:33653)
+    at $.i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:39852)
+    at $.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:39257)
+    at f.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:179:43041)
+    at m.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:9309)
+    at ae.J (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:23763)
+    at ae.J (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:27572)
+    at ae.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:20828)
+    at async ae.A (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:17741)
+    at async ae.updateChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:613:17486)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1774:52761
+    at async Promise.all (index 0)
+    at async h.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1774:52715)

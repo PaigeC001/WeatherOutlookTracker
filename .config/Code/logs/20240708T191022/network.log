@@ -1,0 +1,2 @@
+2024-07-10 20:11:01.181 [error] electron #158: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2024-07-14 17:28:12.172 [error] electron #482: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_ADDRESS_UNREACHABLE

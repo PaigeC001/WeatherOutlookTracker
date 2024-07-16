@@ -1,0 +1,7 @@
+2024-07-15 23:36:55.444 [warning] Ignoring the error while validating workspace folder file:///home/paigec00/SuperTeamProject/super-team-project - Error: ENOENT: no such file or directory, stat '/home/paigec00/SuperTeamProject/super-team-project'
+2024-07-15 23:36:55.529 [info] Started local extension host with pid 21016.
+2024-07-15 23:37:02.314 [info] [perf] Render performance baseline is 232ms
+2024-07-15 23:37:17.207 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace
+2024-07-15 23:37:22.270 [info] [lifecycle]: Shutdown was prevented (id: veto.untitledWorkspace)
+2024-07-16 01:00:40.297 [error] Error: Aborted onWillSaveTextDocument-event after 1750ms
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1785:13037

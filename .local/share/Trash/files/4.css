@@ -1,0 +1,40 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+#landing-page {
+  display: block;
+}
+
+#posts-page {
+  display: none;
+}
+
+#mode-toggle,
+footer {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+#main-content {
+  padding: 1rem;
+}
+
+#blog-posts {
+  list-style-type: none;
+}
+
+#blog-posts li {
+  margin-bottom: 1rem;
+}
+
+#blog-posts li h3 {
+  margin: 0;
+}
+
+#blog-posts li p {
+  margin: 0;
+  margin-top: 0.5rem;
+}

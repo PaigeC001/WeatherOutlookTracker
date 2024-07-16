@@ -1,0 +1,9 @@
+2024-07-15 20:04:55.558 [info] update#setState idle
+2024-07-15 20:05:25.558 [info] update#setState checking for updates
+2024-07-15 20:05:25.684 [info] update#setState idle
+2024-07-15 21:06:01.681 [info] update#setState checking for updates
+2024-07-15 21:06:02.041 [info] update#setState idle
+2024-07-15 22:53:06.597 [info] update#setState checking for updates
+2024-07-15 22:53:07.573 [info] update#setState idle
+2024-07-15 23:26:12.517 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-15 23:36:46.730 [info] Extension host with pid 18127 exited with code: 0, signal: unknown.

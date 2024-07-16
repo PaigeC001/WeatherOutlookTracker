@@ -1,0 +1,36 @@
+[Error - 8:43:43 PM] Error while computing completions for file:///home/paigec00/MusicBox/MusicBoxProject/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790965
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790977)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
+[Error - 8:43:49 PM] Error while computing completions for file:///home/paigec00/MusicBox/MusicBoxProject/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790965
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790977)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
+[Error - 8:43:56 PM] Error while computing completions for file:///home/paigec00/MusicBox/MusicBoxProject/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790965
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790977)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
+[Error - 8:43:57 PM] Error while computing completions for file:///home/paigec00/MusicBox/MusicBoxProject/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790965
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790977)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312

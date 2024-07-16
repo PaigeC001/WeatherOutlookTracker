@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotVerifyTags": true,
+    "git.autofetch": true
+}

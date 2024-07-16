@@ -1,0 +1,36 @@
+2024-06-13 18:36:59.640 [info] update#setState idle
+2024-06-13 18:37:29.648 [info] update#setState checking for updates
+2024-06-13 18:37:29.689 [info] update#setState available for download
+2024-06-17 21:31:08.157 [warning] No ptyHost heartbeat after 6 seconds
+2024-06-18 13:49:44.315 [warning] No ptyHost heartbeat after 6 seconds
+2024-06-18 19:15:29.471 [warning] No ptyHost heartbeat after 6 seconds
+2024-06-20 18:31:58.562 [warning] No ptyHost heartbeat after 6 seconds
+2024-06-20 21:18:41.500 [warning] No ptyHost heartbeat after 6 seconds
+2024-06-21 13:07:03.139 [warning] No ptyHost heartbeat after 6 seconds
+2024-06-21 21:53:59.483 [warning] No ptyHost heartbeat after 6 seconds
+2024-06-23 14:14:32.309 [info] update#setState idle
+2024-06-23 14:17:09.991 [info] update#setState checking for updates
+2024-06-23 14:17:10.495 [info] update#setState available for download
+2024-06-23 16:56:08.574 [info] update#setState idle
+2024-06-23 17:55:54.623 [warning] No ptyHost heartbeat after 6 seconds
+2024-06-23 22:49:41.577 [info] update#setState checking for updates
+2024-06-23 22:49:42.209 [info] update#setState available for download
+2024-06-23 22:49:45.986 [info] update#setState idle
+2024-06-24 18:48:53.975 [info] update#setState checking for updates
+2024-06-24 18:48:54.339 [info] update#setState available for download
+2024-06-24 20:44:36.291 [info] update#setState idle
+2024-06-24 20:48:54.083 [info] update#setState checking for updates
+2024-06-24 20:48:54.649 [info] update#setState available for download
+2024-06-24 21:57:14.398 [warning] No ptyHost heartbeat after 6 seconds
+2024-06-25 17:15:55.476 [warning] No ptyHost heartbeat after 6 seconds
+2024-06-25 17:28:04.316 [info] update#setState idle
+2024-06-25 17:43:28.650 [warning] No ptyHost heartbeat after 6 seconds
+2024-06-25 19:13:47.220 [info] update#setState checking for updates
+2024-06-25 19:13:47.684 [info] update#setState available for download
+2024-06-25 19:14:25.812 [info] update#setState idle
+2024-06-25 20:13:47.225 [info] update#setState checking for updates
+2024-06-25 20:13:47.544 [info] update#setState available for download
+2024-06-25 20:13:50.151 [info] update#setState idle
+2024-06-25 21:13:47.234 [info] update#setState checking for updates
+2024-06-25 21:13:47.547 [info] update#setState available for download
+2024-06-25 21:36:10.820 [info] Extension host with pid 426 exited with code: 0, signal: unknown.

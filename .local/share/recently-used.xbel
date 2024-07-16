@@ -3,12 +3,202 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/paigec00/bootcamp_modules/urban-octo-telegram/Develop/Mod1ChallengeSolved.html" added="2024-06-03T18:55:15.683145Z" modified="2024-06-03T18:55:15.683225Z" visited="2024-06-03T18:55:15.683147Z">
+  <bookmark href="file:///home/paigec00/Challenge-2" added="2024-06-09T05:00:43.519200Z" modified="2024-06-09T05:00:43.519207Z" visited="2024-06-09T05:00:43.519201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-09T05:00:43.519203Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/Challenge-2/Mod2Challenge/.git/Module2Challenge.html" added="2024-06-09T05:10:02.892845Z" modified="2024-06-09T05:10:02.892852Z" visited="2024-06-09T05:10:02.892846Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-03T18:55:15.683153Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-09T05:10:02.892848Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/Challenge-2/Images" added="2024-06-10T03:47:12.634646Z" modified="2024-06-10T03:47:12.634652Z" visited="2024-06-10T03:47:12.634647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-10T03:47:12.634649Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/Challenge-2/Mod2Challenge/.git/Challenge-2/Module2Challenge.html" added="2024-06-10T13:23:03.515676Z" modified="2024-06-10T13:23:03.516232Z" visited="2024-06-10T13:23:03.515679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-10T13:23:03.515688Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/Challenge-3/index.html" added="2024-06-18T01:20:45.347421Z" modified="2024-06-18T01:20:45.347434Z" visited="2024-06-18T01:20:45.347423Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-18T01:20:45.347427Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/Challenge-3/script.js" added="2024-06-18T01:20:57.602284Z" modified="2024-06-18T01:20:57.602291Z" visited="2024-06-18T01:20:57.602286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-18T01:20:57.602288Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/bootcamp_modules/~/Challenge-4/Module4Challenge" added="2024-06-23T18:12:17.551339Z" modified="2024-06-23T18:12:17.551511Z" visited="2024-06-23T18:12:17.551436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-23T18:12:17.551444Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/Challenge-4/4.css" added="2024-06-24T02:48:40.999028Z" modified="2024-06-24T02:48:40.999089Z" visited="2024-06-24T02:48:40.999031Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-24T02:48:40.999038Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/Challenge-4/4.js" added="2024-06-24T02:48:59.551003Z" modified="2024-06-24T02:48:59.551013Z" visited="2024-06-24T02:48:59.551004Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-24T02:48:59.551008Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/Challenge-4/style.css" added="2024-06-24T23:35:04.391368Z" modified="2024-06-24T23:35:04.391461Z" visited="2024-06-24T23:35:04.391397Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-24T23:35:04.391407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/Challenge-4/styles.css" added="2024-06-25T00:23:06.375813Z" modified="2024-06-25T00:23:06.375920Z" visited="2024-06-25T00:23:06.375898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-25T00:23:06.375909Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/Challenge-4/script.js" added="2024-06-25T00:25:11.067817Z" modified="2024-06-25T00:25:11.067840Z" visited="2024-06-25T00:25:11.067821Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-25T00:25:11.067830Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/Challenge-4/blog.html" added="2024-06-25T21:21:00.085060Z" modified="2024-06-25T21:21:00.087804Z" visited="2024-06-25T21:21:00.085062Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-25T21:21:00.085064Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/Challenge-4/blog-script.js" added="2024-06-25T21:25:49.030285Z" modified="2024-06-25T21:25:49.030304Z" visited="2024-06-25T21:25:49.030288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-25T21:25:49.030295Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/3rdPartyAPIsTaskBoard" added="2024-07-01T22:51:26.801074Z" modified="2024-07-01T22:51:26.801129Z" visited="2024-07-01T22:51:26.801075Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-07-01T22:51:26.801076Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/3rdPartyAPIsTaskBoard/index.html" added="2024-07-01T22:58:06.531792Z" modified="2024-07-01T22:58:06.531811Z" visited="2024-07-01T22:58:06.531795Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-07-01T22:58:06.531802Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/3rdPartyAPIsTaskBoard/style.css" added="2024-07-01T22:58:51.110768Z" modified="2024-07-01T22:58:51.110812Z" visited="2024-07-01T22:58:51.110771Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-07-01T22:58:51.110779Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/3rdPartyAPIsTaskBoard/3rdPartyAPIsTaskBoard/script.js" added="2024-07-01T23:37:12.588129Z" modified="2024-07-01T23:37:12.588158Z" visited="2024-07-01T23:37:12.588132Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-07-01T23:37:12.588146Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/SuperTeamProject" added="2024-07-02T01:12:17.141346Z" modified="2024-07-02T01:12:17.141412Z" visited="2024-07-02T01:12:17.141348Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-07-02T01:12:17.141356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paigec00/MusicBox" added="2024-07-10T00:31:25.692418Z" modified="2024-07-10T00:31:25.692449Z" visited="2024-07-10T00:31:25.692419Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-07-10T00:31:25.692421Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

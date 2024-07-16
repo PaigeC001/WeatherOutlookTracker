@@ -2,7 +2,9 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/paigec00": "__default__profile__"
+            "file:///home/paigec00": "__default__profile__",
+            "file:///home/paigec00/3rdPartyAPIsTaskBoard/3rdPartyAPIsTaskBoard": "__default__profile__",
+            "file:///home/paigec00/.config/Code/Workspaces/1719882742681/workspace.json": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -10,12 +12,13 @@
     "telemetry.sqmId": "",
     "telemetry.machineId": "f4fe78e62047e09c21e15cc96f3c2545f2bd452ba91ded69a5428bf6b2cb744c",
     "backupWorkspaces": {
-        "workspaces": [],
-        "folders": [
+        "workspaces": [
             {
-                "folderUri": "file:///home/paigec00"
+                "id": "8ea3963be3c1586e44c32bfe7087fe7c",
+                "configURIPath": "file:///home/paigec00/.config/Code/Workspaces/1719882742681/workspace.json"
             }
         ],
+        "folders": [],
         "emptyWindows": []
     },
     "lastKnownMenubarData": {
@@ -73,18 +76,128 @@
                                     "label": "/home/paigec00"
                                 },
                                 {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/paigec00/3rdPartyAPIsTaskBoard/3rdPartyAPIsTaskBoard",
+                                        "path": "/home/paigec00/3rdPartyAPIsTaskBoard/3rdPartyAPIsTaskBoard",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/3rdPartyAPIsTaskBoard/3rdPartyAPIsTaskBoard"
+                                },
+                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/paigec00/bootcamp_modules/urban-octo-telegram/Develop/Mod1ChallengeSolved.html",
-                                        "path": "/home/paigec00/bootcamp_modules/urban-octo-telegram/Develop/Mod1ChallengeSolved.html",
+                                        "external": "file:///home/paigec00/3rdPartyAPIsTaskBoard/3rdPartyAPIsTaskBoard/script.js",
+                                        "path": "/home/paigec00/3rdPartyAPIsTaskBoard/3rdPartyAPIsTaskBoard/script.js",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/bootcamp_modules/urban-octo-telegram/Develop/Mod1ChallengeSolved.html"
+                                    "label": "~/3rdPartyAPIsTaskBoard/3rdPartyAPIsTaskBoard/script.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/paigec00/3rdPartyAPIsTaskBoard/style.css",
+                                        "path": "/home/paigec00/3rdPartyAPIsTaskBoard/style.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/3rdPartyAPIsTaskBoard/style.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/paigec00/3rdPartyAPIsTaskBoard/index.html",
+                                        "path": "/home/paigec00/3rdPartyAPIsTaskBoard/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/3rdPartyAPIsTaskBoard/index.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/paigec00/Challenge-4/blog-script.js",
+                                        "path": "/home/paigec00/Challenge-4/blog-script.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Challenge-4/blog-script.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/paigec00/Challenge-4/blog.html",
+                                        "path": "/home/paigec00/Challenge-4/blog.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Challenge-4/blog.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/paigec00/Challenge-4/script.js",
+                                        "path": "/home/paigec00/Challenge-4/script.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Challenge-4/script.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/paigec00/Challenge-4/styles.css",
+                                        "path": "/home/paigec00/Challenge-4/styles.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Challenge-4/styles.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/paigec00/Challenge-4/4.js",
+                                        "path": "/home/paigec00/Challenge-4/4.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Challenge-4/4.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/paigec00/bootcamp_modules/~/Challenge-4/Module4Challenge",
+                                        "path": "/home/paigec00/bootcamp_modules/~/Challenge-4/Module4Challenge",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/bootcamp_modules/~/Challenge-4/Module4Challenge"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/paigec00/Challenge-3/script.js",
+                                        "path": "/home/paigec00/Challenge-3/script.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Challenge-3/script.js"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -123,13 +236,11 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save",
-                        "enabled": false
+                        "label": "&&Save"
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "saveAll",
@@ -144,6 +255,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -160,7 +278,8 @@
                     },
                     {
                         "id": "workbench.action.toggleAutoSave",
-                        "label": "A&&uto Save"
+                        "label": "A&&uto Save",
+                        "checked": true
                     },
                     {
                         "id": "submenuitem.MenubarPreferencesMenu",
@@ -169,7 +288,7 @@
                             "items": [
                                 {
                                     "id": "submenuitem.Profiles",
-                                    "label": "Profiles (Default)",
+                                    "label": "Profile (Default)",
                                     "submenu": {
                                         "items": [
                                             {
@@ -254,15 +373,15 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "settings.filterByOnline",
-                                    "label": "&&Online Services Settings"
+                                    "id": "workbench.userDataSync.actions.turnOn",
+                                    "label": "Backup and Sync Settings..."
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.userDataSync.actions.turnOn",
-                                    "label": "Backup and Sync Settings..."
+                                    "id": "settings.filterByOnline",
+                                    "label": "&&Online Services Settings"
                                 }
                             ]
                         }
@@ -272,17 +391,15 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File",
-                        "enabled": false
+                        "label": "Re&&vert File"
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor",
-                        "enabled": false
+                        "label": "&&Close Editor"
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
+                        "label": "Close &&Workspace"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -327,13 +444,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -798,8 +913,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -807,8 +921,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -817,8 +930,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1742,10 +1854,13 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/paigec00",
-            "backupPath": "/home/paigec00/.config/Code/Backups/822e65945cbe9ed2965ebec85c1a228f",
+            "workspaceIdentifier": {
+                "id": "8ea3963be3c1586e44c32bfe7087fe7c",
+                "configURIPath": "file:///home/paigec00/.config/Code/Workspaces/1719882742681/workspace.json"
+            },
+            "backupPath": "/home/paigec00/.config/Code/Backups/8ea3963be3c1586e44c32bfe7087fe7c",
             "uiState": {
-                "mode": 0,
+                "mode": 1,
                 "x": 0,
                 "y": 40,
                 "width": 1200,
@@ -1753,5 +1868,6 @@
             }
         },
         "openedWindows": []
-    }
+    },
+    "telemetry.devDeviceId": "74ff673a-8ff8-4f3a-88f0-02d1945c0343"
 }

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Blog</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js"></script>
+</head>
+
+<body>
+  <header>
+    <h1>Welcome to My Blog</h1>
+  </header>
+
+  <div id="landing-page">
+    <div id="form-container">
+      <h2>Create a Blog Post</h2>
+      <form id="blog-form" onsubmit="saveBlogPost(event)">
+        <input type="text" id="username" placeholder="Username" required>
+        <input type="text" id="blog-title" placeholder="Blog Title" required>
+        <textarea id="blog-content" placeholder="Blog Content" required></textarea>
+        <div class="switch-container">
+          <label class="switch">
+            <input type="checkbox" id="dark-mode" onchange="toggleDarkMode()">
+            <span class="slider"></span>
+          </label>
+          <span>Dark Mode</span>
+        </div>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+  </div>
+
+  <div id="blog-posts-page" class="hide">
+    <div id="blog-posts-container">
+      <h2>Previous Blog Posts</h2>
+      <div id="blog-posts"></div>
+      <button onclick="goBack()">Back</button>
+    </div>
+  </div>
+
+  <footer>
+    <p>Developed by [Developer's Name]</p>
+    <a href="https://developer-portfolio.com">My Portfolio</a>
+  </footer>
+
+  <script>
+    // Check if there are previously saved blog posts in localStorage
+    let savedBlogPosts = localStorage.getItem('blogPosts');
+    if (savedBlogPosts) {
+      let blogPosts = JSON.parse(savedBlogPosts);
+      displayBlogPosts(blogPosts);
+    }
+
+    function saveBlogPost(event) {
+      event.preventDefault();
+
+      let usernameInput = document.getElementById('username');
+      let blogTitleInput = document.getElementById('blog-title');
+      let blogContentInput = document.getElementById('blog-content');
+
+      let blogPost = {
+        username: usernameInput.value,
+        title: blogTitleInput.value,
+        content: blogContentInput.value
+      };
+
+      let savedBlogPosts = localStorage.getItem('blogPosts');
+      let blogPosts = savedBlogPosts ? JSON.parse(savedBlogPosts) : [];
+      blogPosts.push(blogPost);
+
+      localStorage.setItem('blogPosts', JSON.stringify(blogPosts));
+
+      document.getElementById('blog-form').reset();
+
+      displayBlogPosts(blogPosts);
+    }
+
+    function displayBlogPosts(blogPosts) {
+      let blogPostsContainer = document.getElementById('blog-posts');
+      blogPostsContainer.innerHTML = '';
+
+      for (let i = 0; i < blogPosts.length; i++) {
+        let blogPost = blogPosts[i];
+
+        let postElement = document.createElement('div');
+        postElement.innerHTML = 
+          <h3>${blogPost.title}</h3>
+          <p>By ${blogPost.username}</p>
+          <p>${blogPost.content}</p>
+        ;
+
+        blogPostsContainer.prepend(postElement);
+      }
+
+      showBlogPostsPage();
+    }
+
+    function toggleDarkMode() {
+      let body = document.body;
+      body.classList.toggle('dark-mode');
+    }
+
+    function showBlogPostsPage() {
+      document.getElementById('landing-page').classList.add('hide');
+      document.getElementById('blog-posts-page').classList.remove('hide');
+    }
+
+    function goBack() {
+      document.getElementById('landing-page').classList.remove('hide');
+      document.getElementById('blog-posts-page').classList.add('hide');
+    }
+  </script>
+</body>
+
+</html>

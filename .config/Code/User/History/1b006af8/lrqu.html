@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Blog | Blog</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Blog</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="blog.html">Blog</a></li>
+    </ul>
+  </nav>
+  <main>
+    <h2>Latest Blog Posts</h2>
+    <div id="posts"></div>
+  </main>
+
+  <footer>
+    <p>&copy; 2022 My Blog. All rights reserved.</p>
+  </footer>
+
+  <script>
+    // Fetch blog posts from API and display them on the blog page
+    fetch('https://api.example.com/blog-posts')
+      .then(response => response.json())
+      .then(data => {
+        const postsContainer = document.getElementById('posts');
+        data.forEach(post => {
+          const postElement = document.createElement('div');
+          postElement.innerHTML = 
+            <h3>${post.title}</h3>
+            <p>${post.body}</p>
+          ;
+          postsContainer.appendChild(postElement);
+        });
+      });
+  </script>
+</body>
+</html>
