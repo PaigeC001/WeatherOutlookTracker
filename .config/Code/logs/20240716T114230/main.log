@@ -8,3 +8,14 @@
 2024-07-16 14:00:33.354 [info] update#setState idle
 2024-07-16 15:19:47.079 [info] update#setState checking for updates
 2024-07-16 15:19:47.472 [info] update#setState idle
+2024-07-16 16:51:54.728 [info] update#setState checking for updates
+2024-07-16 16:51:55.484 [info] update#setState idle
+2024-07-16 16:53:34.650 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-16 19:58:12.079 [info] update#setState checking for updates
+2024-07-16 19:58:12.759 [info] update#setState idle
+2024-07-17 11:29:15.742 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-17 11:43:39.116 [info] update#setState checking for updates
+2024-07-17 11:43:40.233 [info] update#setState idle
+2024-07-17 12:07:47.303 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-17 12:48:43.462 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-17 12:59:59.093 [info] Extension host with pid 16678 exited with code: 0, signal: unknown.

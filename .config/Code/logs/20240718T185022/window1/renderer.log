@@ -1,0 +1,12 @@
+2024-07-18 18:50:26.521 [warning] Creation of workbench contribution 'workbench.contrib.textMateTokenizationInstantiator' took 23ms.
+2024-07-18 18:50:27.817 [warning] Ignoring the error while validating workspace folder file:///home/paigec00/SuperTeamProject/super-team-project - Error: ENOENT: no such file or directory, stat '/home/paigec00/SuperTeamProject/super-team-project'
+2024-07-18 18:50:29.536 [info] Started local extension host with pid 587.
+2024-07-18 18:50:55.477 [info] [perf] Render performance baseline is 885ms
+2024-07-23 19:20:23.529 [error] [Extension Host] (node:587) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-07-23 19:20:31.045 [warning] Ignoring the error while validating workspace folder file:///home/paigec00/SuperTeamProject/super-team-project - Error: ENOENT: no such file or directory, stat '/home/paigec00/SuperTeamProject/super-team-project'
+2024-07-23 19:20:31.120 [warning] Ignoring the error while validating workspace folder file:///home/paigec00/SuperTeamProject/super-team-project - Error: ENOENT: no such file or directory, stat '/home/paigec00/SuperTeamProject/super-team-project'
+2024-07-23 20:48:54.242 [info] Extension host (LocalProcess pid: 587) is unresponsive.
+2024-07-23 20:48:54.263 [info] Extension host (LocalProcess pid: 587) is responsive.
+2024-07-23 20:48:55.027 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-07-23 20:49:03.280 [info] UNRESPONSIVE extension host: starting to profile NOW

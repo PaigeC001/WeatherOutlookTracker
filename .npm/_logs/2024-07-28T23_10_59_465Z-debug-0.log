@@ -1,0 +1,23 @@
+0 verbose cli /home/paigec00/.config/nvm/versions/node/v20.15.1/bin/node /home/paigec00/.config/nvm/versions/node/v20.15.1/bin/npm
+1 info using npm@10.7.0
+2 info using node@v20.15.1
+3 silly config:load:file:/home/paigec00/.config/nvm/versions/node/v20.15.1/lib/node_modules/npm/npmrc
+4 silly config:load:file:/home/paigec00/.npmrc
+5 silly config:load:file:/home/paigec00/.config/nvm/versions/node/v20.15.1/etc/npmrc
+6 verbose title npm init
+7 verbose argv "init" "--yes"
+8 verbose logfile logs-max:10 dir:/home/paigec00/.npm/_logs/2024-07-28T23_10_59_465Z-
+9 verbose logfile /home/paigec00/.npm/_logs/2024-07-28T23_10_59_465Z-debug-0.log
+10 silly logfile done cleaning log files
+11 silly package data {
+11 silly package data   name: 'readme-generator',
+11 silly package data   version: '1.0.0',
+11 silly package data   main: 'index.js',
+11 silly package data   scripts: { test: 'echo "Error: no test specified" && exit 1' },
+11 silly package data   keywords: [],
+11 silly package data   author: '',
+11 silly package data   license: 'ISC',
+11 silly package data   description: ''
+11 silly package data }
+12 verbose exit 0
+13 info ok

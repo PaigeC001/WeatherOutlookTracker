@@ -241,3 +241,67 @@ git push origin main
 git add .
 git commit -m "added save this song button and last.fm api"
 git pull
+git remote set-url origin https://github.com/PaigeC001/WeatherOutlookTracker.git
+git remote -v
+git add .
+git remote -v
+push
+git push
+git remote -v
+git push origin main
+git add .
+git commit "Functional weather dashboard"
+git commit
+git init
+git remote origin https://github.com/PaigeC001/WeatherOutlookTracker.git
+git remote add origin https://github.com/PaigeC001/WeatherOutlookTracker.git
+git remote -v
+git add .
+git commit -m "added index,css & script"
+git push origin main
+git fetch
+git push origin main
+git pull
+git pull remote main
+git pull remote https://github.com/PaigeC001/WeatherOutlookTracker.git
+git pull remote WeatherOutlookTracker
+git remote -v
+git pull remote https://github.com/PaigeC001/WeatherOutlookTracker.git
+git pull remote github.com/PaigeC001/WeatherOutlookTracker.git
+git push
+git push --set-upstream origin super_feature
+clear
+git push
+brew install node@20
+install node@20
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+nvm install 20
+install 20
+nvm install 20
+node -v
+npm -v
+npm install inquirer
+node index.js
+npm i inquirer@8.2.4
+clear
+mkdir readme-generator
+cd readme-generator
+npm init -y
+touch index.js
+node index.js
+git init
+git add .
+git commit -m "adding index.js file and json"
+git remote add origin https://github.com/PaigeC001/READMEFileGenerator.git
+git push -u origin main
+git push -u origin master
+clear
+node index.js
+cd readme-generator
+node index.js
+cd readme-generator
+node index.js
+cd readme-generator
+node index.js
+cd readme-generator
+node index.js

@@ -25,16 +25,16 @@
 # Registers:
 
 # File marks:
-'0  1  33  ~/.bash_profile
-|4,48,1,33,1720651366,"~/.bash_profile"
+'0  2154  0  ~/.git/COMMIT_EDITMSG
+|4,48,2154,0,1721162449,"~/.git/COMMIT_EDITMSG"
 '1  1  33  ~/.bash_profile
-|4,49,1,33,1720651032,"~/.bash_profile"
+|4,49,1,33,1720651366,"~/.bash_profile"
 '2  1  33  ~/.bash_profile
-|4,50,1,33,1720647488,"~/.bash_profile"
+|4,50,1,33,1720651032,"~/.bash_profile"
 '3  1  33  ~/.bash_profile
 |4,51,1,33,1720647488,"~/.bash_profile"
-'4  1  0  ~/.bash_profile
-|4,52,1,0,1720647397,"~/.bash_profile"
+'4  1  33  ~/.bash_profile
+|4,52,1,33,1720647488,"~/.bash_profile"
 '5  1  0  ~/.bash_profile
 |4,53,1,0,1720647397,"~/.bash_profile"
 '6  1  0  ~/.bash_profile
@@ -42,23 +42,52 @@
 '7  1  0  ~/.bash_profile
 |4,55,1,0,1720647397,"~/.bash_profile"
 '8  1  0  ~/.bash_profile
-|4,56,1,0,1720647257,"~/.bash_profile"
+|4,56,1,0,1720647397,"~/.bash_profile"
 '9  1  0  ~/.bash_profile
 |4,57,1,0,1720647257,"~/.bash_profile"
 
 # Jumplist (newest first):
+-'  2154  0  ~/.git/COMMIT_EDITMSG
+|4,39,2154,0,1721162449,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1721160702,"~/.git/COMMIT_EDITMSG"
+-'  1  33  ~/.bash_profile
+|4,39,1,33,1720651366,"~/.bash_profile"
 -'  1  33  ~/.bash_profile
 |4,39,1,33,1720651366,"~/.bash_profile"
 -'  1  33  ~/.bash_profile
 |4,39,1,33,1720651032,"~/.bash_profile"
 -'  1  33  ~/.bash_profile
+|4,39,1,33,1720651032,"~/.bash_profile"
+-'  1  33  ~/.bash_profile
+|4,39,1,33,1720647488,"~/.bash_profile"
+-'  1  33  ~/.bash_profile
 |4,39,1,33,1720647488,"~/.bash_profile"
 -'  1  0  ~/.bash_profile
 |4,39,1,0,1720647397,"~/.bash_profile"
 -'  1  0  ~/.bash_profile
+|4,39,1,0,1720647397,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1720647257,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
 |4,39,1,0,1720647257,"~/.bash_profile"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1721161149	0
+	"	2154	0
+	^	1	30
+	.	2154	0
+	+	2	0
+	+	1639	0
+	+	2154	1
+	+	1	30
+	+	2	0
+	+	1	26
+	+	2	0
+	+	1	0
+	+	2154	0
 
 > ~/.bash_profile
 	*	1720651171	0

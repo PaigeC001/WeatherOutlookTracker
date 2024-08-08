@@ -1,0 +1,2 @@
+2024-07-28 18:43:42.146 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/paigec00/.config/Code/logs/20240611T165449' failed: No such file or directory (EUNKNOWN) (path: /home/paigec00)
+2024-07-28 18:43:42.146 [error] [File Watcher (universal)] inotify_add_watch on '/home/paigec00/.config/Code/logs/20240611T165449' failed: No such file or directory

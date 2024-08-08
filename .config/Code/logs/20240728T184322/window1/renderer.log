@@ -1,0 +1,5 @@
+2024-07-28 18:43:28.173 [warning] Ignoring the error while validating workspace folder file:///home/paigec00/SuperTeamProject/super-team-project - Error: ENOENT: no such file or directory, stat '/home/paigec00/SuperTeamProject/super-team-project'
+2024-07-28 18:43:29.176 [info] Started local extension host with pid 427.
+2024-07-28 18:43:40.127 [info] [perf] Render performance baseline is 213ms
+2024-07-28 18:43:42.132 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/paigec00/.config/Code/logs/20240611T165449' failed: No such file or directory (EUNKNOWN) (path: /home/paigec00)
+2024-07-28 18:43:42.133 [error] [File Watcher (universal)] inotify_add_watch on '/home/paigec00/.config/Code/logs/20240611T165449' failed: No such file or directory
